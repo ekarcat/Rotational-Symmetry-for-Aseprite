@@ -1,4 +1,4 @@
--- Rotational Symmetry Script For Aseprite
+-- Rotational Symmetry Script For Aseprite (By Google Gemini)
 ----------------------------------------------------------------------
 
 if app.apiVersion < 1 then
